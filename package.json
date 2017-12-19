@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Customer Side of Bamazon <br> <br> ![product table](https://i.imgur.com/2mXh6GT.png) <br> ![product table](https://i.imgur.com/4H6wGJP.png) <br> <br> Manager Side of Bamazon <br> <br> ![product table](https://i.imgur.com/o0Gtkau.png) <br> ![product table](https://i.imgur.com/hcazu9b.png) <br> ![product table](https://i.imgur.com/llFOy2K.png) <br> ![product table](https://i.imgur.com/HHnPMFk.png) <br> ![product table](https://i.imgur.com/NTvn6oS.png)",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averymjohnson/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averymjohnson/bamazon/issues"
+  },
+  "homepage": "https://github.com/averymjohnson/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
